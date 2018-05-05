@@ -1,0 +1,4 @@
+﻿  Joguinho.cpp
+c:\users\rayquazads\desktop\joguinho2.0\joguinho\batalha.h(34): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\rayquazads\desktop\joguinho2.0\joguinho\movimentarpersonagem.h(99): warning C4101: 'resposta': variável local não referenciada
+  Joguinho.vcxproj -> C:\Users\Rayquazads\Desktop\Joguinho2.0\x64\Debug\Joguinho.exe
