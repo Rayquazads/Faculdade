@@ -1,0 +1,6 @@
+﻿  Joguinho4.0.cpp
+c:\users\rayquazads\source\repos\joguinho4.0\joguinho4.0\movimentarpersonagem.h(37): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\rayquazads\source\repos\joguinho4.0\joguinho4.0\movimentarpersonagem.h(328): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\rayquazads\source\repos\joguinho4.0\joguinho4.0\movimentarpersonagem.h(443): warning C4101: 'resposta': variável local não referenciada
+c:\users\rayquazads\source\repos\joguinho4.0\joguinho4.0\movimentarpersonagem.h(480): warning C4717: 'Movimento': recursivo em todos os caminhos de controle, função causará estouro na pilha em tempo de execução
+  Joguinho4.0.vcxproj -> C:\Users\Rayquazads\source\repos\Joguinho4.0\Debug\Joguinho4.0.exe
